@@ -22,7 +22,11 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
 description              : "An amazing website."
+<<<<<<< HEAD
 url                      : "https://gitjm34.github.io"
+=======
+url                      : "https://Gitjm34.github.io"
+>>>>>>> d54f92f3b55ea0e26319e62333488fa65628aa8d
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
